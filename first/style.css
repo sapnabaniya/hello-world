@@ -1,0 +1,38 @@
+h1{
+	background-color: green;
+	color: white;
+	width: 78%;
+	border: 100px;
+	border-color: black;
+	padding: 50px 200px 50px 200px;
+	text-align: center;
+	text-decoration: blink;
+}
+body{
+	background-color: white;
+}
+p{
+	size: 15px;
+	color: red;
+}
+nav{
+	overflow: hidden;
+	background-color:grey;
+
+}
+nav a{
+float: left;
+padding:10px 20px 10px 20px;
+color: white;
+text-decoration: none;
+}
+nav a:hover{
+	background-color: green;
+	color: white;
+}
+footer{
+	background-color: green;
+	color: white;
+	padding: 20px 100px;
+}
+
